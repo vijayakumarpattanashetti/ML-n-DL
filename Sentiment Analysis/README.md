@@ -1,3 +1,3 @@
-# ML-n-DL
+# Sentiment Analysis
 
-The repository contains the files of sentiment analysis, web scraping notebooks and related data.
+The repository contains sentiment analysis & web scraping notebooks, and related data.
