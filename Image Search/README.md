@@ -16,10 +16,10 @@ Google Colaboratory, OpenCV, TF-Keras, Scikit-learn
 
 
 ## Neural Network Architecture – Convolutional Autoencoder(ConvAE)
-<img src="https://github.com/vijayakumarpattanashetti/ML-n-DL/blob/master/image_retrieval/readme_images/arch.PNG">
+<img src="https://github.com/vijayakumarpattanashetti/ML-n-DL/blob/master/Image%20Search/readme_images/arch.PNG">
 
 ## Flow chart
-<img src="https://github.com/vijayakumarpattanashetti/ML-n-DL/blob/master/image_retrieval/readme_images/fd.PNG">
+<img src="https://github.com/vijayakumarpattanashetti/ML-n-DL/blob/master/Image%20Search/readme_images/fd.PNG">
 
 
 ## Resources
