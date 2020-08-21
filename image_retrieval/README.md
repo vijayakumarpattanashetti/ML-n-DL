@@ -15,13 +15,13 @@ We know that Convolutional Neural Networks(CNNs) are best suited neural architec
 Google Colaboratory, OpenCV, TF-Keras, Scikit-learn
 
 
-## Resources
-Dataset Set: https://drive.google.com/file/d/1VT-8w1rTT2GCE5IE5zFJPMzv7bqca-Ri/view?usp=sharing
-Colab: https://drive.google.com/file/d/13_oKNkRp5Ru1HdOHSh8wMUp-C9BKIn0u/view?usp=sharing
-
-
 ## Neural Network Architecture – Convolutional Autoencoder(ConvAE)
 <img src="https://github.com/vijayakumarpattanashetti/ML-n-DL/blob/master/image_retrieval/readme_images/arch.PNG">
 
 ## Flow chart
 <img src="https://github.com/vijayakumarpattanashetti/ML-n-DL/blob/master/image_retrieval/readme_images/fd.PNG">
+
+
+## Resources
+Dataset Set: https://drive.google.com/file/d/1VT-8w1rTT2GCE5IE5zFJPMzv7bqca-Ri/view?usp=sharing
+Colab: https://drive.google.com/file/d/13_oKNkRp5Ru1HdOHSh8wMUp-C9BKIn0u/view?usp=sharing
