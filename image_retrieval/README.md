@@ -23,5 +23,5 @@ Google Colaboratory, OpenCV, TF-Keras, Scikit-learn
 
 
 ## Resources
-Dataset Set: https://drive.google.com/file/d/1VT-8w1rTT2GCE5IE5zFJPMzv7bqca-Ri/view?usp=sharing
+Dataset Set: https://drive.google.com/file/d/1VT-8w1rTT2GCE5IE5zFJPMzv7bqca-Ri/view?usp=sharing <br>
 Colab: https://drive.google.com/file/d/13_oKNkRp5Ru1HdOHSh8wMUp-C9BKIn0u/view?usp=sharing
